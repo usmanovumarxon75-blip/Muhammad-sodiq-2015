@@ -1,0 +1,6 @@
+{
+  "name": "Akmalov CAR PLAY",
+  "description": "Akmalov CAR PLAY - Ko'k mashina bilan qizil mashinalardan qochish o'yini. Telefon va noutbuklar uchun qulay boshqaruv.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
